@@ -5,5 +5,6 @@ public class Main {
 
     // file unstage  add för att få versionshistorik -> stage
     // commit för att skapa ett paket som skall skickas till github
+    // Push för att skicka till git
 
 }
